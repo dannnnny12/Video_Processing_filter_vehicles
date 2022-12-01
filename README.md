@@ -2,6 +2,7 @@
 This project is a video processing method to filter out vehicle and passenger on the road.
 <h1>Data for Training:</h1>
 Using Singular-Value Decomposition (SVD) technique to decompose data to linear PCA using SKlearn and matplotlib.
+
 ![be45](https://user-images.githubusercontent.com/49478754/205113898-0e33afc8-9aaa-4ba6-94d5-eec8ab92cd2f.png)
 ![be44](https://user-images.githubusercontent.com/49478754/205113633-2ee2afde-46f4-45c0-8208-496eb851897e.png)
 ![be43](https://user-images.githubusercontent.com/49478754/205113626-0eb698e8-11cd-4030-bfbc-d0a069e18987.png)
