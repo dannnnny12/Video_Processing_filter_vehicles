@@ -9,6 +9,7 @@ Using Singular-Value Decomposition (SVD) technique to decompose data to linear P
 ![be42](https://user-images.githubusercontent.com/49478754/205113614-307a07d4-d5f7-4bf4-b632-3be808ce9b4c.png)
 ![be41](https://user-images.githubusercontent.com/49478754/205113609-d357bf84-7407-45f0-a4f2-95e39a815278.png)
 <h1>After Removal:
+  
 ![after](https://user-images.githubusercontent.com/49478754/205113820-1da073c2-8d92-4b17-a75e-914e5e718f36.png)
 
 
