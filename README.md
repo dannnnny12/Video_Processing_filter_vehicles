@@ -12,4 +12,4 @@ Using Singular-Value Decomposition (SVD) technique to decompose data to linear P
   
 ![after](https://user-images.githubusercontent.com/49478754/205113820-1da073c2-8d92-4b17-a75e-914e5e718f36.png)
 
-
+The vehicles on the road are erased!
